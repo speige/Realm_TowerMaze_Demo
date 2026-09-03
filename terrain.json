@@ -6,7 +6,15 @@
 	"Coordinates": [],
 	"Decals": [
 		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.99997,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
 			"PosX": -51.400692,
 			"PosY": 0,
 			"PosZ": -94.00105,
@@ -14,7 +22,15 @@
 			"Scale": 1
 		},
 		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.99998,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
 			"PosX": -51.400692,
 			"PosY": 0,
 			"PosZ": -94.00105,
@@ -22,7 +38,15 @@
 			"Scale": 1
 		},
 		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.99998,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
 			"PosX": -51.400692,
 			"PosY": 0,
 			"PosZ": -94.00105,
@@ -30,15 +54,7 @@
 			"Scale": 1
 		},
 		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99999,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
 			"PosX": -51.400692,
 			"PosY": 0,
 			"PosZ": -94.00105,
@@ -46,7 +62,7 @@
 			"Scale": 1
 		},
 		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
 			"PosX": -51.400692,
 			"PosY": 0,
 			"PosZ": -94.00105,
@@ -54,7 +70,31 @@
 			"Scale": 1
 		},
 		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.99998,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.999985,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.999985,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
 			"PosX": -51.400692,
 			"PosY": 0,
 			"PosZ": -94.00105,
@@ -62,7 +102,31 @@
 			"Scale": 1
 		},
 		{
-			"DecalId": "Assets\\decals\\arcane_spark.png",
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.999985,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.99999,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
+			"PosX": -51.400692,
+			"PosY": 0,
+			"PosZ": -94.00105,
+			"RotationY": 104.99999,
+			"Scale": 1
+		},
+		{
+			"DecalId": "Assets\\decals\\arcane_spark.rtex",
 			"PosX": -51.400692,
 			"PosY": 0,
 			"PosZ": -94.00105,
@@ -3289,7 +3353,7 @@
 			"Scale": 2
 		}
 	],
-	"SkyboxPath": "Assets/skyboxes/jade_shrine.png",
+	"SkyboxPath": "Assets/skyboxes/jade_shrine.rtex",
 	"Units": [
 		{
 			"IsEnemy": false,
@@ -3297,7 +3361,7 @@
 			"PosX": -51.556313,
 			"PosY": 0,
 			"PosZ": -81.50016,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3307,7 +3371,7 @@
 			"PosX": -51.78424,
 			"PosY": 0,
 			"PosZ": -93.68315,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3317,7 +3381,7 @@
 			"PosX": 66.52048,
 			"PosY": 0,
 			"PosZ": 93.816086,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3327,7 +3391,7 @@
 			"PosX": 66.45706,
 			"PosY": 0,
 			"PosZ": 83.11172,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3337,7 +3401,7 @@
 			"PosX": 66.53563,
 			"PosY": 0,
 			"PosZ": 71.62303,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3347,7 +3411,7 @@
 			"PosX": 87.04579,
 			"PosY": 0,
 			"PosZ": 20.72205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3357,7 +3421,7 @@
 			"PosX": 87.36129,
 			"PosY": 0,
 			"PosZ": 33.012985,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3367,7 +3431,7 @@
 			"PosX": 88.321915,
 			"PosY": 0,
 			"PosZ": 37.491024,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3377,7 +3441,7 @@
 			"PosX": 82.893936,
 			"PosY": 0,
 			"PosZ": 50.963577,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3387,7 +3451,7 @@
 			"PosX": 73.106415,
 			"PosY": 0,
 			"PosZ": 51.812824,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3397,7 +3461,7 @@
 			"PosX": 59.215324,
 			"PosY": 0,
 			"PosZ": 51.812824,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3407,7 +3471,7 @@
 			"PosX": 51.009857,
 			"PosY": 0,
 			"PosZ": 51.085793,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3417,7 +3481,7 @@
 			"PosX": 38.94655,
 			"PosY": 0,
 			"PosZ": 51.085793,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3427,7 +3491,7 @@
 			"PosX": 32.461025,
 			"PosY": 0,
 			"PosZ": 36.21557,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3437,7 +3501,7 @@
 			"PosX": 32.328274,
 			"PosY": 0,
 			"PosZ": 13.166578,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3447,7 +3511,7 @@
 			"PosX": 25.219606,
 			"PosY": 0,
 			"PosZ": 52.172382,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3457,7 +3521,7 @@
 			"PosX": 4.7485065,
 			"PosY": 0,
 			"PosZ": 52.172382,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3467,7 +3531,7 @@
 			"PosX": -10.60483,
 			"PosY": 0,
 			"PosZ": 52.172382,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3477,7 +3541,7 @@
 			"PosX": -34.200516,
 			"PosY": 0,
 			"PosZ": 37.648468,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3487,7 +3551,7 @@
 			"PosX": -32.854282,
 			"PosY": 0,
 			"PosZ": 27.35664,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3497,7 +3561,7 @@
 			"PosX": -33.401306,
 			"PosY": 0,
 			"PosZ": 9.82995,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3507,7 +3571,7 @@
 			"PosX": -25.305382,
 			"PosY": 0,
 			"PosZ": 52.41063,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3517,7 +3581,7 @@
 			"PosX": -35.540916,
 			"PosY": 0,
 			"PosZ": 52.41063,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3527,7 +3591,7 @@
 			"PosX": -52.356438,
 			"PosY": 0,
 			"PosZ": 52.41063,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3537,7 +3601,7 @@
 			"PosX": -71.549194,
 			"PosY": 0,
 			"PosZ": 53.001244,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3547,7 +3611,7 @@
 			"PosX": -86.9025,
 			"PosY": 0,
 			"PosZ": 53.001244,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3557,7 +3621,7 @@
 			"PosX": -86.9025,
 			"PosY": 0,
 			"PosZ": 41.303493,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3567,7 +3631,7 @@
 			"PosX": -86.9025,
 			"PosY": 0,
 			"PosZ": 25.584637,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3577,7 +3641,7 @@
 			"PosX": -86.9025,
 			"PosY": 0,
 			"PosZ": 10.962444,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3587,7 +3651,7 @@
 			"PosX": -86.9025,
 			"PosY": 0,
 			"PosZ": -1.4664211,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3597,7 +3661,7 @@
 			"PosX": -86.9025,
 			"PosY": 0,
 			"PosZ": -9.508625,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3607,7 +3671,7 @@
 			"PosX": -86.9025,
 			"PosY": 0,
 			"PosZ": -18.647495,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3617,7 +3681,7 @@
 			"PosX": -87.71672,
 			"PosY": 0,
 			"PosZ": -33.49648,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3627,7 +3691,7 @@
 			"PosX": -87.0434,
 			"PosY": 0,
 			"PosZ": -52.888374,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3637,7 +3701,7 @@
 			"PosX": -81.421326,
 			"PosY": 0,
 			"PosZ": -57.890137,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3647,7 +3711,7 @@
 			"PosX": -71.237206,
 			"PosY": 0,
 			"PosZ": -56.36528,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3657,7 +3721,7 @@
 			"PosX": -58.05553,
 			"PosY": 0,
 			"PosZ": -58.666767,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3667,7 +3731,7 @@
 			"PosX": -77.996544,
 			"PosY": 0,
 			"PosZ": -5.160368,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3677,7 +3741,7 @@
 			"PosX": -65.08393,
 			"PosY": 0,
 			"PosZ": -5.160366,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3687,7 +3751,7 @@
 			"PosX": -56.49888,
 			"PosY": 0,
 			"PosZ": -5.160366,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3697,7 +3761,7 @@
 			"PosX": -44.90709,
 			"PosY": 0,
 			"PosZ": -5.4200096,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3707,7 +3771,7 @@
 			"PosX": -44.90709,
 			"PosY": 0,
 			"PosZ": -5.4200096,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3717,7 +3781,7 @@
 			"PosX": -44.90709,
 			"PosY": 0,
 			"PosZ": -5.4200096,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3727,7 +3791,7 @@
 			"PosX": -44.90709,
 			"PosY": 0,
 			"PosZ": -5.4200096,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3737,7 +3801,7 @@
 			"PosX": -36.49933,
 			"PosY": 0,
 			"PosZ": -5.4200096,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3747,7 +3811,7 @@
 			"PosX": -28.822678,
 			"PosY": 0,
 			"PosZ": -5.4200115,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3757,7 +3821,7 @@
 			"PosX": -20.780472,
 			"PosY": 0,
 			"PosZ": -5.4200096,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3767,7 +3831,7 @@
 			"PosX": -12.007158,
 			"PosY": 0,
 			"PosZ": -5.4200096,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3777,7 +3841,7 @@
 			"PosX": -2.30517,
 			"PosY": 0,
 			"PosZ": -4.774351,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3787,7 +3851,7 @@
 			"PosX": -1.6591282,
 			"PosY": 0,
 			"PosZ": -10.433495,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3797,7 +3861,7 @@
 			"PosX": -1.5674915,
 			"PosY": 0,
 			"PosZ": -22.465412,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3807,7 +3871,7 @@
 			"PosX": -1.2706928,
 			"PosY": 0,
 			"PosZ": -34.252773,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3817,7 +3881,7 @@
 			"PosX": -1.0716629,
 			"PosY": 0,
 			"PosZ": -44.608147,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3827,7 +3891,7 @@
 			"PosX": 5.0023403,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3837,7 +3901,7 @@
 			"PosX": 12.67901,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3847,7 +3911,7 @@
 			"PosX": 20.355679,
 			"PosY": 0,
 			"PosZ": -5.6815186,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3857,7 +3921,7 @@
 			"PosX": 27.301237,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3867,7 +3931,7 @@
 			"PosX": 34.977905,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3877,7 +3941,7 @@
 			"PosX": 41.92345,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3887,7 +3951,7 @@
 			"PosX": 48.50344,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3897,7 +3961,7 @@
 			"PosX": 56.545647,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3907,7 +3971,7 @@
 			"PosX": 64.22229,
 			"PosY": 0,
 			"PosZ": -5.6815186,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3917,7 +3981,7 @@
 			"PosX": 72.995605,
 			"PosY": 0,
 			"PosZ": -5.6815205,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3927,7 +3991,7 @@
 			"PosX": 82.13448,
 			"PosY": 0,
 			"PosZ": -5.6815186,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3937,7 +4001,7 @@
 			"PosX": 88.23164,
 			"PosY": 0,
 			"PosZ": -5.7471867,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3947,7 +4011,7 @@
 			"PosX": 88.23164,
 			"PosY": 0,
 			"PosZ": -15.617195,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3957,7 +4021,7 @@
 			"PosX": 88.23164,
 			"PosY": 0,
 			"PosZ": -22.562748,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3967,7 +4031,7 @@
 			"PosX": 88.23164,
 			"PosY": 0,
 			"PosZ": -30.239422,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3977,7 +4041,7 @@
 			"PosX": 88.23164,
 			"PosY": 0,
 			"PosZ": -40.109413,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3987,7 +4051,7 @@
 			"PosX": 88.23164,
 			"PosY": 0,
 			"PosZ": -47.78606,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -3997,7 +4061,7 @@
 			"PosX": 87.55674,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4007,7 +4071,7 @@
 			"PosX": 79.14898,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4017,7 +4081,7 @@
 			"PosX": 70.01011,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4027,7 +4091,7 @@
 			"PosX": 61.236794,
 			"PosY": 0,
 			"PosZ": -58.973877,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4037,7 +4101,7 @@
 			"PosX": 52.097923,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4047,7 +4111,7 @@
 			"PosX": 42.959053,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4057,7 +4121,7 @@
 			"PosX": 34.185722,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4067,7 +4131,7 @@
 			"PosX": 23.950165,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4077,7 +4141,7 @@
 			"PosX": 13.3490505,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4087,7 +4151,7 @@
 			"PosX": 3.4790516,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4097,7 +4161,7 @@
 			"PosX": -7.122038,
 			"PosY": 0,
 			"PosZ": -58.97388,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4107,7 +4171,7 @@
 			"PosX": -14.798687,
 			"PosY": 0,
 			"PosZ": -58.973885,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4117,7 +4181,7 @@
 			"PosX": -22.860033,
 			"PosY": 0,
 			"PosZ": -59.22348,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 1,
 			"UnitId": "orc_warrior_7"
 		},
@@ -4127,7 +4191,7 @@
 			"PosX": 30.428078,
 			"PosY": 0,
 			"PosZ": -29.744987,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
 		},
@@ -4137,7 +4201,7 @@
 			"PosX": 33.5298,
 			"PosY": 0,
 			"PosZ": -25.763258,
-			"RotationY": 104.99998,
+			"RotationY": 104.99997,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
 		},

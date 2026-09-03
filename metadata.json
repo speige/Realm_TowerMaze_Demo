@@ -1,19 +1,32 @@
 {
 	"Assets": {
 		"animations": {
-			"bored___standing_around_bored_idle.ranim": "18f12b05e4fec0ea63d87859b85f21cd5a2b24f202eb688ee919881a45a5f999",
-			"death___death_from_standing_idle.ranim": "e3359b33a523e7256861e32639056ff0edbf441979a4ccc200ec9f9de6a5a482",
-			"heavy_weapon_swing___two_handed_heavy_weapon_swing.ranim": "e5cd8587cc810ee7c42ab6274c86592ca30376aead1dc78d5bf75c3469c540a3",
-			"magic_spell_casting___casting_a_spell_with_one_hand.ranim": "c34fedc5df2e49885453bc20e2199a4f1924e25cfe1460781eab5022abeb7813",
-			"northern_soul_floor_spin___northern_soul_dance_spin_on_floor.ranim": "193a74c2f1246ca1b6411efd722e281bdc012cc791a96a59210f6c8607ba772f",
-			"standard_walk___standard_walk.ranim": "5941c8332db13407e3f0edbd47884fc773ddc6b89678360f7637f0b1f050f004",
-			"upward_thrust___upward_weapon_thrust.ranim": "fbbefae0cc7b6d156a4e1eed936f73bf668fdf79fb7b714443e15c9677aa7639"
+			"Bored - Standing Around Bored Idle.ranim": "18f12b05e4fec0ea63d87859b85f21cd5a2b24f202eb688ee919881a45a5f999",
+			"Death - Death From Standing Idle.ranim": "e3359b33a523e7256861e32639056ff0edbf441979a4ccc200ec9f9de6a5a482",
+			"Heavy Weapon Swing - Two Handed Heavy Weapon Swing.ranim": "e5cd8587cc810ee7c42ab6274c86592ca30376aead1dc78d5bf75c3469c540a3",
+			"Magic Spell Casting - Casting A Spell With One Hand.ranim": "c34fedc5df2e49885453bc20e2199a4f1924e25cfe1460781eab5022abeb7813",
+			"Northern Soul Floor Spin - Northern Soul Dance Spin On Floor.ranim": "193a74c2f1246ca1b6411efd722e281bdc012cc791a96a59210f6c8607ba772f",
+			"Standard Walk - Standard Walk.ranim": "5941c8332db13407e3f0edbd47884fc773ddc6b89678360f7637f0b1f050f004",
+			"Upward Thrust - Upward Weapon Thrust.ranim": "fbbefae0cc7b6d156a4e1eed936f73bf668fdf79fb7b714443e15c9677aa7639"
 		},
 		"decals": {
-			"arcane_spark.png": "b44e0bbea2ed1d70380381a37bec49db7881509c38225688c70b2539de58ad4f"
+			"arcane_spark.rtex": "b44e0bbea2ed1d70380381a37bec49db7881509c38225688c70b2539de58ad4f"
 		},
 		"glb": {
-			"buildings": {},
+			"buildings": {
+				"fantasy_tower_1.glb": {
+					"brightness": 0.5,
+					"collision_circle_ratio": 1,
+					"default_asset_type": "units",
+					"generate_normals": true,
+					"hash": "3dc8e5aa020f3a826a82dc95fdcab3eabd9b4a0ec9dd4b20f36ca34185416b99",
+					"ignore_player_color": true,
+					"normal_mode": "Flat",
+					"normalize_luminance": true,
+					"scale": 1.5,
+					"y_offset": 1.5000001
+				}
+			},
 			"props": {},
 			"resources": {
 				"snow_pine_tree.glb": {
@@ -40,14 +53,14 @@
 		},
 		"icons": {},
 		"skyboxes": {
-			"jade_shrine.png": "07d819f01cbbada5d711ca37c3041ecbdf4e91f9db99a0e6348ab7e575a038ed"
+			"jade_shrine.rtex": "07d819f01cbbada5d711ca37c3041ecbdf4e91f9db99a0e6348ab7e575a038ed"
 		},
 		"textures": {
-			"ancient_jungle_overgrown_path.ktx2": {
+			"ancient_jungle_overgrown_path.rtex": {
 				"hash": "82817a46e4f4ad1fde83c2b3ce852a052e544a3926f8f6143d4b9dba5ebd8424",
 				"swatchIndex": 0
 			},
-			"frozen_tundra_ice_melt.ktx2": {
+			"frozen_tundra_ice_melt.rtex": {
 				"Crevice_Power": 1,
 				"Height_Offset": 0,
 				"Height_Scale": 1,
@@ -60,15 +73,15 @@
 				"tint": "#ffffff",
 				"uv_scale": 0.35
 			},
-			"frozen_tundra_icy_crag.ktx2": {
+			"frozen_tundra_icy_crag.rtex": {
 				"hash": "3d4f7061740773ef0a554d313d4647fd70580b7b7393f91ecb3a19844efd41c6",
 				"swatchIndex": 2
 			},
-			"petrified_forest_gray_granite.ktx2": {
+			"petrified_forest_gray_granite.rtex": {
 				"hash": "4f2cc6d36258a2ee8bdc4225b707d8cb5dc09938e1d95391c8482d4a25c40f40",
 				"swatchIndex": 3
 			},
-			"sunken_ruins_crushed_granite.ktx2": {
+			"sunken_ruins_crushed_granite.rtex": {
 				"hash": "3ce20b1553713a2c1482e6dcb66f93447fc6472458d053bdaba7232a1484c7a8",
 				"swatchIndex": 4
 			}
@@ -76,7 +89,23 @@
 		"vfx_spritesheets": {}
 	},
 	"CustomAbilities": [],
-	"CustomBuildings": [],
+	"CustomBuildings": [
+		{
+			"Brightness": 0.5,
+			"CollisionCircle": 1,
+			"Description": "",
+			"IgnorePlayerColor": true,
+			"ModelPath": "fantasy_tower_1.glb",
+			"Name": "fantasy_tower_1",
+			"NormalMode": "Flat",
+			"NormalizeLuminance": true,
+			"PathingType": 255,
+			"Scale": 1.5,
+			"Tint": "#ffffff",
+			"UnitId": "fantasy_tower_1",
+			"YOffset": 1.5000001
+		}
+	],
 	"CustomItems": [],
 	"CustomProps": [],
 	"CustomResources": [
@@ -100,25 +129,25 @@
 		{
 			"Animations": {
 				"Attack": [
-					"upward_thrust___upward_weapon_thrust.ranim"
+					"Upward Thrust - Upward Weapon Thrust.ranim"
 				],
 				"Dance": [
-					"northern_soul_floor_spin___northern_soul_dance_spin_on_floor.ranim"
+					"Northern Soul Floor Spin - Northern Soul Dance Spin On Floor.ranim"
 				],
 				"Death": [
-					"death___death_from_standing_idle.ranim"
+					"Death - Death From Standing Idle.ranim"
 				],
 				"Idle": [
-					"bored___standing_around_bored_idle.ranim"
+					"Bored - Standing Around Bored Idle.ranim"
 				],
 				"Labor": [
-					"heavy_weapon_swing___two_handed_heavy_weapon_swing.ranim"
+					"Heavy Weapon Swing - Two Handed Heavy Weapon Swing.ranim"
 				],
 				"Spell_Cast": [
-					"magic_spell_casting___casting_a_spell_with_one_hand.ranim"
+					"Magic Spell Casting - Casting A Spell With One Hand.ranim"
 				],
 				"Walk": [
-					"standard_walk___standard_walk.ranim"
+					"Standard Walk - Standard Walk.ranim"
 				]
 			},
 			"Description": "",
@@ -128,6 +157,7 @@
 			"PathingType": 9,
 			"RecalculateNormals": true,
 			"Scale": 1.5,
+			"Tint": "#ffffff",
 			"UnitId": "orc_warrior_7"
 		}
 	],
@@ -135,11 +165,13 @@
 	"CustomWeapons": [],
 	"MapProperties": {},
 	"ModelBrightness": {
+		"fantasy_tower_1.glb": 0.5,
 		"snow_pine_tree.glb": 0.5
 	},
 	"ModelCollisionCircleRatios": {
 		"coniferous_tree_1.glb": 0.3,
 		"crystal_cluster_5.glb": 0.75,
+		"fantasy_tower_1.glb": 1,
 		"palm_tree.glb": 0.25,
 		"snow_pine_tree.glb": 1,
 		"spiked_wooden_stake.glb": 0.4
@@ -148,6 +180,7 @@
 		"coniferous_tree_1.glb": true,
 		"crystal_cluster_5.glb": true,
 		"fantasy_rock.glb": true,
+		"fantasy_tower_1.glb": true,
 		"fantasy_tree_1.glb": true,
 		"palm_tree.glb": true,
 		"snow_pine_tree.glb": true,
@@ -160,6 +193,7 @@
 		"coniferous_tree_1.glb": "Flat",
 		"crystal_cluster_5.glb": "Flat",
 		"fantasy_rock.glb": "Flat",
+		"fantasy_tower_1.glb": "Flat",
 		"fantasy_tree_1.glb": "Flat",
 		"fantasy_warrior_unit_1.glb": "Flat",
 		"grass_tuft_1.glb": "Flat",
@@ -175,6 +209,7 @@
 	},
 	"ModelNormalizeLuminance": {
 		"fantasy_rock.glb": true,
+		"fantasy_tower_1.glb": true,
 		"fantasy_tree_1.glb": true,
 		"grass_tuft_1.glb": true,
 		"snow_pine_tree.glb": true,
@@ -187,6 +222,7 @@
 		"coniferous_tree_1.glb": 3.0000002,
 		"crystal_cluster_5.glb": 1.0500002,
 		"fantasy_rock.glb": 0,
+		"fantasy_tower_1.glb": 1.5000001,
 		"grass_tuft_1.glb": 0,
 		"palm_tree.glb": 3.15,
 		"snow_pine_tree.glb": 4.15,
@@ -197,6 +233,7 @@
 		"coniferous_tree_1.glb": 2.75,
 		"crystal_cluster_5.glb": 1,
 		"fantasy_rock.glb": 2.75,
+		"fantasy_tower_1.glb": 1.5,
 		"fantasy_tree_1.glb": 2.75,
 		"fantasy_warrior_unit_1.glb": 1.5,
 		"grass_tuft_1.glb": 1,
