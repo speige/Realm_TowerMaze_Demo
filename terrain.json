@@ -7,2225 +7,25 @@
 	"Decals": [
 		{
 			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
+			"PosX": -51.135983,
 			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99997,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99998,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99998,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.999985,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99998,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.999985,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.999985,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99999,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99998,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.999985,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.999985,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99999,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.999985,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99999,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 104.99999,
-			"Scale": 1
-		},
-		{
-			"DecalId": "Assets\\decals\\arcane_spark.rtex",
-			"PosX": -51.400692,
-			"PosY": 0,
-			"PosZ": -94.00105,
-			"RotationY": 105,
+			"PosZ": -93.93555,
+			"RotationY": 0,
 			"Scale": 1
 		}
 	],
 	"Depth": 128,
 	"Props": [
 		{
-			"PosX": 32.34135,
+			"PosX": -63.43019,
 			"PosY": 0,
-			"PosZ": 102.484245,
+			"PosZ": -78.39851,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
 		},
 		{
-			"PosX": 23.630598,
-			"PosY": 0,
-			"PosZ": 102.484245,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 15.240517,
-			"PosY": 0,
-			"PosZ": 102.48425,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 4.6532,
-			"PosY": 0,
-			"PosZ": 102.668976,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -0.24660492,
-			"PosY": 0,
-			"PosZ": 102.668976,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -7.538084,
-			"PosY": 0,
-			"PosZ": 103.03844,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -12.457401,
-			"PosY": 0,
-			"PosZ": 103.038445,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -19.175205,
-			"PosY": 0,
-			"PosZ": 103.038445,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -27.195877,
-			"PosY": 0,
-			"PosZ": 103.22316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -34.27342,
-			"PosY": 0,
-			"PosZ": 103.22316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -40.806526,
-			"PosY": 0,
-			"PosZ": 103.22316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -47.534134,
-			"PosY": 0,
-			"PosZ": 103.22316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -55.165844,
-			"PosY": 0,
-			"PosZ": 102.66898,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -62.428123,
-			"PosY": 0,
-			"PosZ": 102.66898,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -68.961235,
-			"PosY": 0,
-			"PosZ": 102.66898,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -76.5832,
-			"PosY": 0,
-			"PosZ": 102.66898,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -82.571884,
-			"PosY": 0,
-			"PosZ": 102.66898,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -89.104935,
-			"PosY": 0,
-			"PosZ": 102.66898,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -96.18237,
-			"PosY": 0,
-			"PosZ": 102.66898,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -102.78372,
-			"PosY": 0,
-			"PosZ": 101.93008,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -104.631,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -100.124176,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -91.9579,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -84.33596,
-			"PosY": 0,
-			"PosZ": 94.72572,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -76.714,
-			"PosY": 0,
-			"PosZ": 94.72572,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -69.63646,
-			"PosY": 0,
-			"PosZ": 94.72572,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -63.647774,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -56.570236,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -48.948273,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -42.95959,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -36.42648,
-			"PosY": 0,
-			"PosZ": 94.725716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -25.741573,
-			"PosY": 0,
-			"PosZ": 94.35626,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -16.234673,
-			"PosY": 0,
-			"PosZ": 95.46463,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -8.612762,
-			"PosY": 0,
-			"PosZ": 95.46463,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -0.99085045,
-			"PosY": 0,
-			"PosZ": 95.46463,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 9.557415,
-			"PosY": 0,
-			"PosZ": 93.98682,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 17.560806,
-			"PosY": 0,
-			"PosZ": 93.81056,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 26.658249,
-			"PosY": 0,
-			"PosZ": 94.47382,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 34.681076,
-			"PosY": 0,
-			"PosZ": 93.97347,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 36.01679,
-			"PosY": 0,
-			"PosZ": 86.62702,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 29.287252,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 21.696436,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 15.0544815,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 6.98925,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -0.12713051,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -6.2946587,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -13.411049,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -20.527443,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -28.592691,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -35.709084,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -42.35105,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -50.890724,
-			"PosY": 0,
-			"PosZ": 86.35988,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -58.95597,
-			"PosY": 0,
-			"PosZ": 86.22631,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -66.54679,
-			"PosY": 0,
-			"PosZ": 86.22631,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -73.663185,
-			"PosY": 0,
-			"PosZ": 86.22631,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -79.3563,
-			"PosY": 0,
-			"PosZ": 86.22631,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -85.049416,
-			"PosY": 0,
-			"PosZ": 86.22631,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -90.74253,
-			"PosY": 0,
-			"PosZ": 86.22631,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -95.48679,
-			"PosY": 0,
-			"PosZ": 86.22631,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -102.635345,
-			"PosY": 0,
-			"PosZ": 86.092735,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -95.33936,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -89.64625,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -83.953125,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -77.78558,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -72.09247,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -66.39935,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -60.70624,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -55.487553,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -49.794437,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -43.15247,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -35.56165,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -29.868534,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -24.649845,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -19.431156,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -14.212467,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -8.519354,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -3.7751007,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 1.4435768,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 5.7134056,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 10.457663,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 14.701916,
-			"PosY": 0,
-			"PosZ": 80.68089,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 18.997318,
-			"PosY": 0,
-			"PosZ": 79.814865,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 24.216,
-			"PosY": 0,
-			"PosZ": 79.68129,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 28.460262,
-			"PosY": 0,
-			"PosZ": 80.54732,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 32.755672,
-			"PosY": 0,
-			"PosZ": 79.68129,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 37.47436,
-			"PosY": 0,
-			"PosZ": 80.54732,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 41.788074,
-			"PosY": 0,
-			"PosZ": 80.57029,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 41.788074,
-			"PosY": 0,
-			"PosZ": 86.263405,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 41.788074,
-			"PosY": 0,
-			"PosZ": 91.95652,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 42.792328,
-			"PosY": 0,
-			"PosZ": 101.53706,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 50.728455,
-			"PosY": 0,
-			"PosZ": 101.334236,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 50.728455,
-			"PosY": 0,
-			"PosZ": 94.21784,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 50.72846,
-			"PosY": 0,
-			"PosZ": 89.47358,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 50.72846,
-			"PosY": 0,
-			"PosZ": 85.20374,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 50.862045,
-			"PosY": 0,
-			"PosZ": 79.51063,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 51.649612,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 42.161087,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 36.46797,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 30.774857,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 24.607323,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 18.914219,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 13.695538,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 8.47686,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 2.30933,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -1.9604988,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -7.179186,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -12.397875,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -17.616562,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -22.360825,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -27.10509,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -32.323776,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -37.06804,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -41.8123,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -46.556564,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -51.4344,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -56.312252,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -60.582226,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -64.8522,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -69.59662,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -73.86659,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -78.61101,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -82.88098,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -90.4486,
-			"PosY": 0,
-			"PosZ": 73.27878,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -96.86005,
-			"PosY": 0,
-			"PosZ": 75.816635,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -103.53863,
-			"PosY": 0,
-			"PosZ": 79.28949,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -91.25004,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -86.98006,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -81.28676,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -75.59346,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -70.3746,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -65.15575,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -59.936893,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -54.718002,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -49.02466,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -42.85687,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -38.112415,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -32.893517,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -27.200172,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -22.45572,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -17.236822,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -12.017923,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -7.2734756,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -0.15681076,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 5.0620766,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 11.229855,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 15.9743,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 21.667633,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 26.412086,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 32.10543,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 38.27322,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 44.44101,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 51.55769,
-			"PosY": 0,
-			"PosZ": 65.1309,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 93.12015,
-			"PosY": 0,
-			"PosZ": 87.926186,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 93.26508,
-			"PosY": 0,
-			"PosZ": 94.44847,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 88.62702,
-			"PosY": 0,
-			"PosZ": 95.17317,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 87.90232,
-			"PosY": 0,
-			"PosZ": 89.52052,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 92.2505,
-			"PosY": 0,
-			"PosZ": 80.09946,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 86.88776,
-			"PosY": 0,
-			"PosZ": 79.08488,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 90.80112,
-			"PosY": 0,
-			"PosZ": 73.432236,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 84.71366,
-			"PosY": 0,
-			"PosZ": 71.40308,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 77.46668,
-			"PosY": 0,
-			"PosZ": 76.44071,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 77.46668,
-			"PosY": 0,
-			"PosZ": 86.385605,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 79.20595,
-			"PosY": 0,
-			"PosZ": 96.461464,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 77.176796,
-			"PosY": 0,
-			"PosZ": 106.77938,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 83.41582,
-			"PosY": 0,
-			"PosZ": 106.924324,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 90.97989,
-			"PosY": 0,
-			"PosZ": 106.924324,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 98.25407,
-			"PosY": 0,
-			"PosZ": 107.64902,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 103.809586,
-			"PosY": 0,
-			"PosZ": 106.427704,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 103.809586,
-			"PosY": 0,
-			"PosZ": 100.05774,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 103.809586,
-			"PosY": 0,
-			"PosZ": 91.727776,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 103.809586,
-			"PosY": 0,
-			"PosZ": 84.37781,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 103.809586,
-			"PosY": 0,
-			"PosZ": 78.4978,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.11404,
-			"PosY": 0,
-			"PosZ": 67.46911,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 93.94046,
-			"PosY": 0,
-			"PosZ": 66.59947,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 86.50075,
-			"PosY": 0,
-			"PosZ": 64.42537,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 77.42624,
-			"PosY": 0,
-			"PosZ": 65.21257,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": -47.923244,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": -40.829918,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": -33.736595,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": -27.086597,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": -19.993263,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": -12.456596,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": -4.0332623,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": 2.6167374,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": 9.71006,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": 17.69005,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": 23.896706,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 105.07047,
-			"PosY": 0,
-			"PosZ": 33.20669,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 104.959625,
-			"PosY": 0,
-			"PosZ": 38.859184,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 104.29462,
-			"PosY": 0,
-			"PosZ": 46.728245,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 104.07542,
-			"PosY": 0,
-			"PosZ": 59.917496,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.41783,
-			"PosY": 0,
-			"PosZ": 61.136692,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 51.383186,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 42.516457,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 34.97977,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 30.103111,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 25.226452,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 19.463127,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 12.813137,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": 4.3898144,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -1.8168411,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -7.580168,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -13.786837,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -20.880169,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -28.86017,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -36.396835,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -43.49017,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 99.196144,
-			"PosY": 0,
-			"PosZ": -51.91349,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 103.6296,
-			"PosY": 0,
-			"PosZ": -59.339355,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 97.86612,
-			"PosY": 0,
-			"PosZ": -60.115208,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 73.40558,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.15511,
-			"PosY": 0,
-			"PosZ": 65.736694,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 58.97003,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 51.75226,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 44.53448,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 37.76782,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 32.35449,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 27.84338,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 21.527828,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 12.5056095,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 7.5433903,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": 2.581171,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -104.155106,
-			"PosY": 0,
-			"PosZ": -1.4788322,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -5.538828,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -104.155106,
-			"PosY": 0,
-			"PosZ": -9.715353,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -13.775354,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -18.28646,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -23.24868,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -27.759789,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -104.155106,
-			"PosY": 0,
-			"PosZ": -32.270897,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -36.330894,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -41.293114,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.155106,
-			"PosY": 0,
-			"PosZ": -50.31533,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -104.92208,
-			"PosY": 0,
-			"PosZ": -60.580826,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 68.44551,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 59.376945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 52.36946,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 46.18639,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 40.415524,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 34.232452,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 29.285995,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.88583,
-			"PosY": 0,
-			"PosZ": 24.751722,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.62153,
-			"PosY": 0,
-			"PosZ": 18.980827,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.62153,
-			"PosY": 0,
-			"PosZ": 11.973318,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.62153,
-			"PosY": 0,
-			"PosZ": 7.0268497,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.62153,
-			"PosY": 0,
-			"PosZ": 2.492588,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -96.7555,
-			"PosY": 0,
-			"PosZ": -1.9538803,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.62153,
-			"PosY": 0,
-			"PosZ": -6.1637325,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.62153,
-			"PosY": 0,
-			"PosZ": -11.110201,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.62153,
-			"PosY": 0,
-			"PosZ": -19.766525,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.35722,
-			"PosY": 0,
-			"PosZ": -31.720516,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.35722,
-			"PosY": 0,
-			"PosZ": -36.66699,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.35722,
-			"PosY": 0,
-			"PosZ": -42.437855,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -96.890976,
-			"PosY": 0,
-			"PosZ": -53.07292,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -97.94818,
-			"PosY": 0,
-			"PosZ": -61.882977,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -105.37137,
-			"PosY": 0,
-			"PosZ": -85.61991,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -104.55837,
-			"PosY": 0,
-			"PosZ": -76.78221,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -100.34793,
-			"PosY": 0,
-			"PosZ": -78.11716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -95.308136,
-			"PosY": 0,
-			"PosZ": -78.11716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -90.26834,
-			"PosY": 0,
-			"PosZ": -78.11716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -85.228546,
-			"PosY": 0,
-			"PosZ": -78.11716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -80.608734,
+			"PosX": -71.36911,
 			"PosY": 0,
 			"PosZ": -78.11716,
 			"PropId": "snow_pine_tree",
@@ -2241,17 +41,9 @@
 			"Scale": 2
 		},
 		{
-			"PosX": -71.36911,
+			"PosX": -80.608734,
 			"PosY": 0,
 			"PosZ": -78.11716,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -63.43019,
-			"PosY": 0,
-			"PosZ": -78.39851,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
@@ -2273,6 +65,14 @@
 			"Scale": 2
 		},
 		{
+			"PosX": -85.228546,
+			"PosY": 0,
+			"PosZ": -78.11716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
 			"PosX": -76.240685,
 			"PosY": 0,
 			"PosZ": -86.557755,
@@ -2289,33 +89,17 @@
 			"Scale": 2
 		},
 		{
-			"PosX": -86.320274,
+			"PosX": -90.26834,
 			"PosY": 0,
-			"PosZ": -86.557755,
+			"PosZ": -78.11716,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
 		},
 		{
-			"PosX": -91.36007,
+			"PosX": -34.79905,
 			"PosY": 0,
-			"PosZ": -86.557755,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -95.81985,
-			"PosY": 0,
-			"PosZ": -86.557755,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -100.10734,
-			"PosY": 0,
-			"PosZ": -86.557755,
+			"PosZ": -74.34454,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
@@ -2324,6 +108,14 @@
 			"PosX": -64.5005,
 			"PosY": 0,
 			"PosZ": -95.5778,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -86.320274,
+			"PosY": 0,
+			"PosZ": -86.557755,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
@@ -2345,497 +137,25 @@
 			"Scale": 2
 		},
 		{
-			"PosX": -82.459015,
+			"PosX": -97.94818,
 			"PosY": 0,
-			"PosZ": -95.5778,
+			"PosZ": -61.882977,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
 		},
 		{
-			"PosX": -89.43869,
+			"PosX": -95.308136,
 			"PosY": 0,
-			"PosZ": -95.5778,
+			"PosZ": -78.11716,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
 		},
 		{
-			"PosX": -94.21854,
+			"PosX": -96.890976,
 			"PosY": 0,
-			"PosZ": -95.5778,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -102.30759,
-			"PosY": 0,
-			"PosZ": -96.1214,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -30.493666,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -22.490652,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -16.39312,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -9.533392,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -3.0547638,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 4.567154,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 13.332359,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 21.335373,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 26.28962,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 30.481674,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 34.67373,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 38.865784,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 43.05784,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 47.63099,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 51.823044,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 56.396194,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 60.58825,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 65.1614,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 69.353455,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 74.3077,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 78.88085,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 83.454,
-			"PosY": 0,
-			"PosZ": -97.48809,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 88.02715,
-			"PosY": 0,
-			"PosZ": -97.55345,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 92.21921,
-			"PosY": 0,
-			"PosZ": -97.55345,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 96.41126,
-			"PosY": 0,
-			"PosZ": -97.55345,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 102.3238,
-			"PosY": 0,
-			"PosZ": -97.61882,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 102.91088,
-			"PosY": 0,
-			"PosZ": -91.02925,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 95.03713,
-			"PosY": 0,
-			"PosZ": -90.76779,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 90.46398,
-			"PosY": 0,
-			"PosZ": -90.76779,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 85.89083,
-			"PosY": 0,
-			"PosZ": -90.76779,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 79.6635,
-			"PosY": 0,
-			"PosZ": -86.90409,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 80.88782,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 76.6304,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 72.37298,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 67.943115,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 63.132156,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 58.9401,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 54.51024,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 49.937088,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 45.745037,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 41.552982,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 37.29556,
-			"PosY": 0,
-			"PosZ": -90.83316,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 33.157776,
-			"PosY": 0,
-			"PosZ": -90.70243,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 26.853989,
-			"PosY": 0,
-			"PosZ": -86.77336,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 28.39404,
-			"PosY": 0,
-			"PosZ": -90.5717,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 23.822353,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 18.96409,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 14.7720375,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 10.342175,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 5.5312157,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 1.1013527,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -5.1259785,
-			"PosY": 0,
-			"PosZ": -86.44654,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -3.5205631,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -7.950428,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -12.761387,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -17.191248,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -22.002207,
-			"PosY": 0,
-			"PosZ": -90.31024,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -26.575357,
-			"PosY": 0,
-			"PosZ": -90.31024,
+			"PosZ": -53.07292,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
@@ -2849,473 +169,17 @@
 			"Scale": 2
 		},
 		{
-			"PosX": -26.038609,
+			"PosX": -91.36007,
 			"PosY": 0,
-			"PosZ": -82.23945,
+			"PosZ": -86.557755,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
 		},
 		{
-			"PosX": -21.916542,
+			"PosX": -82.459015,
 			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -17.382269,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -12.847996,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -8.313728,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -3.7794647,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 0.34259415,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 4.876854,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 9.411118,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 13.533176,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 17.567438,
-			"PosY": 0,
-			"PosZ": -81.37342,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 21.735678,
-			"PosY": 0,
-			"PosZ": -81.73945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 25.857744,
-			"PosY": 0,
-			"PosZ": -81.73945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 29.97981,
-			"PosY": 0,
-			"PosZ": -81.73945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 34.10188,
-			"PosY": 0,
-			"PosZ": -81.73945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 38.08795,
-			"PosY": 0,
-			"PosZ": -80.82523,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 42.21,
-			"PosY": 0,
-			"PosZ": -80.82523,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 46.158466,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 50.280514,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 54.40256,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 58.52461,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 62.2196,
-			"PosY": 0,
-			"PosZ": -80.47609,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 66.50874,
-			"PosY": 0,
-			"PosZ": -81.47408,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 70.652145,
-			"PosY": 0,
-			"PosZ": -80.82523,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 74.77423,
-			"PosY": 0,
-			"PosZ": -80.82523,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 78.986115,
-			"PosY": 0,
-			"PosZ": -81.37342,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 83.1082,
-			"PosY": 0,
-			"PosZ": -81.37342,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 87.230286,
-			"PosY": 0,
-			"PosZ": -81.37342,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 91.44017,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 95.56225,
-			"PosY": 0,
-			"PosZ": -82.23945,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 101.81738,
-			"PosY": 0,
-			"PosZ": -83.227196,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 96.4456,
-			"PosY": 0,
-			"PosZ": -74.372,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 100.67209,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 92.19129,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 87.65699,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 82.710495,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 78.17619,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 73.22972,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 68.695465,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 64.16121,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 59.62696,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 55.09271,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 50.558456,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 45.612,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 41.077736,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 36.543465,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 32.00919,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 27.887123,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 23.35286,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 18.818596,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 14.696541,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 10.162275,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 6.0402203,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": 1.9181633,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -2.2038956,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -6.3259544,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -11.035816,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -15.570087,
-			"PosY": 0,
-			"PosZ": -74.608765,
-			"PropId": "snow_pine_tree",
-			"RotationY": 0,
-			"Scale": 2
-		},
-		{
-			"PosX": -20.928776,
-			"PosY": 0,
-			"PosZ": -74.608765,
+			"PosZ": -95.5778,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
@@ -3329,17 +193,57 @@
 			"Scale": 2
 		},
 		{
-			"PosX": -34.79905,
+			"PosX": -32.37709,
 			"PosY": 0,
-			"PosZ": -74.34454,
+			"PosZ": -85.315475,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
 		},
 		{
-			"PosX": -32.37709,
+			"PosX": -100.34793,
 			"PosY": 0,
-			"PosZ": -85.315475,
+			"PosZ": -78.11716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -95.81985,
+			"PosY": 0,
+			"PosZ": -86.557755,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.35722,
+			"PosY": 0,
+			"PosZ": -42.437855,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -89.43869,
+			"PosY": 0,
+			"PosZ": -95.5778,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -104.92208,
+			"PosY": 0,
+			"PosZ": -60.580826,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -26.038609,
+			"PosY": 0,
+			"PosZ": -82.23945,
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
@@ -3351,6 +255,2982 @@
 			"PropId": "snow_pine_tree",
 			"RotationY": 0,
 			"Scale": 2
+		},
+		{
+			"PosX": -104.55837,
+			"PosY": 0,
+			"PosZ": -76.78221,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -100.10734,
+			"PosY": 0,
+			"PosZ": -86.557755,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.35722,
+			"PosY": 0,
+			"PosZ": -36.66699,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -50.31533,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -94.21854,
+			"PosY": 0,
+			"PosZ": -95.5778,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -20.928776,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -26.575357,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -21.916542,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.35722,
+			"PosY": 0,
+			"PosZ": -31.720516,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.37137,
+			"PosY": 0,
+			"PosZ": -85.61991,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -41.293114,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -30.493666,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -22.002207,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -15.570087,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -36.330894,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -102.30759,
+			"PosY": 0,
+			"PosZ": -96.1214,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -17.382269,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -104.155106,
+			"PosY": 0,
+			"PosZ": -32.270897,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -22.490652,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -17.191248,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -11.035816,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -12.847996,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -27.759789,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.62153,
+			"PosY": 0,
+			"PosZ": -19.766525,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -12.761387,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -23.24868,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -16.39312,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -8.313728,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -6.3259544,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -18.28646,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -7.950428,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.62153,
+			"PosY": 0,
+			"PosZ": -11.110201,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -2.2038956,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -3.7794647,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -5.1259785,
+			"PosY": 0,
+			"PosZ": -86.44654,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -9.533392,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -13.775354,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -3.5205631,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 1.9181633,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 0.34259415,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.62153,
+			"PosY": 0,
+			"PosZ": -6.1637325,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -104.155106,
+			"PosY": 0,
+			"PosZ": -9.715353,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -3.0547638,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -96.7555,
+			"PosY": 0,
+			"PosZ": -1.9538803,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 1.1013527,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 6.0402203,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 4.876854,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": -5.538828,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -104.155106,
+			"PosY": 0,
+			"PosZ": -1.4788322,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 5.5312157,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.62153,
+			"PosY": 0,
+			"PosZ": 2.492588,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 10.162275,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 9.411118,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 4.567154,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 2.581171,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.62153,
+			"PosY": 0,
+			"PosZ": 7.0268497,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 10.342175,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 14.696541,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 13.533176,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 7.5433903,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 14.7720375,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.62153,
+			"PosY": 0,
+			"PosZ": 11.973318,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 17.567438,
+			"PosY": 0,
+			"PosZ": -81.37342,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 18.818596,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 13.332359,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 12.5056095,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 18.96409,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 21.735678,
+			"PosY": 0,
+			"PosZ": -81.73945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 23.35286,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.62153,
+			"PosY": 0,
+			"PosZ": 18.980827,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 25.857744,
+			"PosY": 0,
+			"PosZ": -81.73945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 21.335373,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 23.822353,
+			"PosY": 0,
+			"PosZ": -90.31024,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 27.887123,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 26.853989,
+			"PosY": 0,
+			"PosZ": -86.77336,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 21.527828,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 24.751722,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 29.97981,
+			"PosY": 0,
+			"PosZ": -81.73945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 28.39404,
+			"PosY": 0,
+			"PosZ": -90.5717,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 26.28962,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 32.00919,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 29.285995,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 34.10188,
+			"PosY": 0,
+			"PosZ": -81.73945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 30.481674,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 27.84338,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 33.157776,
+			"PosY": 0,
+			"PosZ": -90.70243,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 36.543465,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 38.08795,
+			"PosY": 0,
+			"PosZ": -80.82523,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 34.232452,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 34.67373,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 32.35449,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 37.29556,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 41.077736,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 42.21,
+			"PosY": 0,
+			"PosZ": -80.82523,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 38.865784,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 41.552982,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 37.76782,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 40.415524,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 45.612,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 46.158466,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 43.05784,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 45.745037,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 50.558456,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 46.18639,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 50.280514,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 44.53448,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 47.63099,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 49.937088,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 55.09271,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 54.40256,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 51.823044,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 52.36946,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 54.51024,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 51.75226,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 58.52461,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 59.62696,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 56.396194,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 58.9401,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 62.2196,
+			"PosY": 0,
+			"PosZ": -80.47609,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 59.376945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 64.16121,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 60.58825,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -65.15575,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -59.936893,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -70.3746,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -54.718002,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -75.59346,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 58.97003,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 63.132156,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -49.02466,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -81.28676,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -42.85687,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -86.98006,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 66.50874,
+			"PosY": 0,
+			"PosZ": -81.47408,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -38.112415,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -91.25004,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -32.893517,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 68.695465,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 65.1614,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -27.200172,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 67.943115,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -22.45572,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 70.652145,
+			"PosY": 0,
+			"PosZ": -80.82523,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.15511,
+			"PosY": 0,
+			"PosZ": 65.736694,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -97.88583,
+			"PosY": 0,
+			"PosZ": 68.44551,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -64.8522,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -60.582226,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -17.236822,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -69.59662,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -56.312252,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 69.353455,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -73.86659,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 73.22972,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -51.4344,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -78.61101,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -46.556564,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -82.88098,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 72.37298,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -41.8123,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -12.017923,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 74.77423,
+			"PosY": 0,
+			"PosZ": -80.82523,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -90.4486,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -37.06804,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -32.323776,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -7.2734756,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -27.10509,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 74.3077,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 78.17619,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 76.6304,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -105.155106,
+			"PosY": 0,
+			"PosZ": 73.40558,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -22.360825,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -96.86005,
+			"PosY": 0,
+			"PosZ": 75.816635,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -66.39935,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -60.70624,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 78.986115,
+			"PosY": 0,
+			"PosZ": -81.37342,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -72.09247,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -0.15681076,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -55.487553,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -77.78558,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -49.794437,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -17.616562,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -83.953125,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -43.15247,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 79.6635,
+			"PosY": 0,
+			"PosZ": -86.90409,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -89.64625,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 5.0620766,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -35.56165,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -12.397875,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 78.88085,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 82.710495,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -95.33936,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 80.88782,
+			"PosY": 0,
+			"PosZ": -90.83316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -29.868534,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 83.1082,
+			"PosY": 0,
+			"PosZ": -81.37342,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -7.179186,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -103.53863,
+			"PosY": 0,
+			"PosZ": 79.28949,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -24.649845,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 11.229855,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -66.54679,
+			"PosY": 0,
+			"PosZ": 86.22631,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -58.95597,
+			"PosY": 0,
+			"PosZ": 86.22631,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -73.663185,
+			"PosY": 0,
+			"PosZ": 86.22631,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -19.431156,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -1.9604988,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -50.890724,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -79.3563,
+			"PosY": 0,
+			"PosZ": 86.22631,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 83.454,
+			"PosY": 0,
+			"PosZ": -97.48809,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -85.049416,
+			"PosY": 0,
+			"PosZ": 86.22631,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 15.9743,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -42.35105,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 87.65699,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -14.212467,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 87.230286,
+			"PosY": 0,
+			"PosZ": -81.37342,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 85.89083,
+			"PosY": 0,
+			"PosZ": -90.76779,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 2.30933,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -90.74253,
+			"PosY": 0,
+			"PosZ": 86.22631,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -35.709084,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -95.48679,
+			"PosY": 0,
+			"PosZ": 86.22631,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -8.519354,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -28.592691,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 21.667633,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -102.635345,
+			"PosY": 0,
+			"PosZ": 86.092735,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 8.47686,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 88.02715,
+			"PosY": 0,
+			"PosZ": -97.55345,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -3.7751007,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 91.44017,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -20.527443,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 92.19129,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 90.46398,
+			"PosY": 0,
+			"PosZ": -90.76779,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 26.412086,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 13.695538,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 1.4435768,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -13.411049,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -63.647774,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -69.63646,
+			"PosY": 0,
+			"PosZ": 94.72572,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -56.570236,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -76.714,
+			"PosY": 0,
+			"PosZ": 94.72572,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -48.948273,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 92.21921,
+			"PosY": 0,
+			"PosZ": -97.55345,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 5.7134056,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -84.33596,
+			"PosY": 0,
+			"PosZ": 94.72572,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -42.95959,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 18.914219,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 95.56225,
+			"PosY": 0,
+			"PosZ": -82.23945,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 96.4456,
+			"PosY": 0,
+			"PosZ": -74.372,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 32.10543,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -6.2946587,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -36.42648,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -91.9579,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 95.03713,
+			"PosY": 0,
+			"PosZ": -90.76779,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 97.86612,
+			"PosY": 0,
+			"PosZ": -60.115208,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 10.457663,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -100.124176,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -25.741573,
+			"PosY": 0,
+			"PosZ": 94.35626,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -0.12713051,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 24.607323,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -51.91349,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -104.631,
+			"PosY": 0,
+			"PosZ": 94.725716,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 96.41126,
+			"PosY": 0,
+			"PosZ": -97.55345,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -43.49017,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 14.701916,
+			"PosY": 0,
+			"PosZ": 80.68089,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 38.27322,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 100.67209,
+			"PosY": 0,
+			"PosZ": -74.608765,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -36.396835,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 18.997318,
+			"PosY": 0,
+			"PosZ": 79.814865,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 6.98925,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -16.234673,
+			"PosY": 0,
+			"PosZ": 95.46463,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -62.428123,
+			"PosY": 0,
+			"PosZ": 102.66898,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -68.961235,
+			"PosY": 0,
+			"PosZ": 102.66898,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 30.774857,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -55.165844,
+			"PosY": 0,
+			"PosZ": 102.66898,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 101.81738,
+			"PosY": 0,
+			"PosZ": -83.227196,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -28.86017,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -76.5832,
+			"PosY": 0,
+			"PosZ": 102.66898,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 103.6296,
+			"PosY": 0,
+			"PosZ": -59.339355,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -82.571884,
+			"PosY": 0,
+			"PosZ": 102.66898,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -47.534134,
+			"PosY": 0,
+			"PosZ": 103.22316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -89.104935,
+			"PosY": 0,
+			"PosZ": 102.66898,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 24.216,
+			"PosY": 0,
+			"PosZ": 79.68129,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 44.44101,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -20.880169,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -8.612762,
+			"PosY": 0,
+			"PosZ": 95.46463,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -40.806526,
+			"PosY": 0,
+			"PosZ": 103.22316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 102.91088,
+			"PosY": 0,
+			"PosZ": -91.02925,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 102.3238,
+			"PosY": 0,
+			"PosZ": -97.61882,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -96.18237,
+			"PosY": 0,
+			"PosZ": 102.66898,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": -47.923244,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -34.27342,
+			"PosY": 0,
+			"PosZ": 103.22316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 15.0544815,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 36.46797,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -102.78372,
+			"PosY": 0,
+			"PosZ": 101.93008,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": -40.829918,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -13.786837,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -27.195877,
+			"PosY": 0,
+			"PosZ": 103.22316,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -0.99085045,
+			"PosY": 0,
+			"PosZ": 95.46463,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 28.460262,
+			"PosY": 0,
+			"PosZ": 80.54732,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": -33.736595,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -7.580168,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -19.175205,
+			"PosY": 0,
+			"PosZ": 103.038445,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": -27.086597,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 21.696436,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 32.755672,
+			"PosY": 0,
+			"PosZ": 79.68129,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 51.55769,
+			"PosY": 0,
+			"PosZ": 65.1309,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 42.161087,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 9.557415,
+			"PosY": 0,
+			"PosZ": 93.98682,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": -1.8168411,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": -19.993263,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -12.457401,
+			"PosY": 0,
+			"PosZ": 103.038445,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -7.538084,
+			"PosY": 0,
+			"PosZ": 103.03844,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 37.47436,
+			"PosY": 0,
+			"PosZ": 80.54732,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": -12.456596,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 4.3898144,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 29.287252,
+			"PosY": 0,
+			"PosZ": 86.35988,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 17.560806,
+			"PosY": 0,
+			"PosZ": 93.81056,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": -0.24660492,
+			"PosY": 0,
+			"PosZ": 102.668976,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 41.788074,
+			"PosY": 0,
+			"PosZ": 80.57029,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": -4.0332623,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 51.649612,
+			"PosY": 0,
+			"PosZ": 73.27878,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 4.6532,
+			"PosY": 0,
+			"PosZ": 102.668976,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 12.813137,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 36.01679,
+			"PosY": 0,
+			"PosZ": 86.62702,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": 2.6167374,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 26.658249,
+			"PosY": 0,
+			"PosZ": 94.47382,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 19.463127,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 41.788074,
+			"PosY": 0,
+			"PosZ": 86.263405,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 50.862045,
+			"PosY": 0,
+			"PosZ": 79.51063,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 15.240517,
+			"PosY": 0,
+			"PosZ": 102.48425,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": 9.71006,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 25.226452,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 34.681076,
+			"PosY": 0,
+			"PosZ": 93.97347,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": 17.69005,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 23.630598,
+			"PosY": 0,
+			"PosZ": 102.484245,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 50.72846,
+			"PosY": 0,
+			"PosZ": 85.20374,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 30.103111,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 41.788074,
+			"PosY": 0,
+			"PosZ": 91.95652,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": 23.896706,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 34.97977,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 77.42624,
+			"PosY": 0,
+			"PosZ": 65.21257,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 50.72846,
+			"PosY": 0,
+			"PosZ": 89.47358,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 32.34135,
+			"PosY": 0,
+			"PosZ": 102.484245,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 42.516457,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.07047,
+			"PosY": 0,
+			"PosZ": 33.20669,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 50.728455,
+			"PosY": 0,
+			"PosZ": 94.21784,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 42.792328,
+			"PosY": 0,
+			"PosZ": 101.53706,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 104.959625,
+			"PosY": 0,
+			"PosZ": 38.859184,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 86.50075,
+			"PosY": 0,
+			"PosZ": 64.42537,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 77.46668,
+			"PosY": 0,
+			"PosZ": 76.44071,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.196144,
+			"PosY": 0,
+			"PosZ": 51.383186,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 84.71366,
+			"PosY": 0,
+			"PosZ": 71.40308,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 50.728455,
+			"PosY": 0,
+			"PosZ": 101.334236,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 104.29462,
+			"PosY": 0,
+			"PosZ": 46.728245,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 93.94046,
+			"PosY": 0,
+			"PosZ": 66.59947,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 99.41783,
+			"PosY": 0,
+			"PosZ": 61.136692,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 77.46668,
+			"PosY": 0,
+			"PosZ": 86.385605,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 90.80112,
+			"PosY": 0,
+			"PosZ": 73.432236,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 86.88776,
+			"PosY": 0,
+			"PosZ": 79.08488,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 104.07542,
+			"PosY": 0,
+			"PosZ": 59.917496,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 92.2505,
+			"PosY": 0,
+			"PosZ": 80.09946,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 105.11404,
+			"PosY": 0,
+			"PosZ": 67.46911,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 79.20595,
+			"PosY": 0,
+			"PosZ": 96.461464,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 87.90232,
+			"PosY": 0,
+			"PosZ": 89.52052,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 93.12015,
+			"PosY": 0,
+			"PosZ": 87.926186,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 103.809586,
+			"PosY": 0,
+			"PosZ": 78.4978,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 88.62702,
+			"PosY": 0,
+			"PosZ": 95.17317,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 77.176796,
+			"PosY": 0,
+			"PosZ": 106.77938,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 93.26508,
+			"PosY": 0,
+			"PosZ": 94.44847,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 103.809586,
+			"PosY": 0,
+			"PosZ": 84.37781,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 83.41582,
+			"PosY": 0,
+			"PosZ": 106.924324,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 103.809586,
+			"PosY": 0,
+			"PosZ": 91.727776,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 90.97989,
+			"PosY": 0,
+			"PosZ": 106.924324,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 103.809586,
+			"PosY": 0,
+			"PosZ": 100.05774,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 98.25407,
+			"PosY": 0,
+			"PosZ": 107.64902,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
+		},
+		{
+			"PosX": 103.809586,
+			"PosY": 0,
+			"PosZ": 106.427704,
+			"PropId": "snow_pine_tree",
+			"RotationY": 0,
+			"Scale": 2
 		}
 	],
 	"SkyboxPath": "Assets/skyboxes/jade_shrine.rtex",
@@ -3358,859 +3238,39 @@
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": -51.556313,
+			"PosX": -45.40677,
 			"PosY": 0,
-			"PosZ": -81.50016,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -51.78424,
-			"PosY": 0,
-			"PosZ": -93.68315,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 66.52048,
-			"PosY": 0,
-			"PosZ": 93.816086,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 66.45706,
-			"PosY": 0,
-			"PosZ": 83.11172,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 66.53563,
-			"PosY": 0,
-			"PosZ": 71.62303,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 87.04579,
-			"PosY": 0,
-			"PosZ": 20.72205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 87.36129,
-			"PosY": 0,
-			"PosZ": 33.012985,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 88.321915,
-			"PosY": 0,
-			"PosZ": 37.491024,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 82.893936,
-			"PosY": 0,
-			"PosZ": 50.963577,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 73.106415,
-			"PosY": 0,
-			"PosZ": 51.812824,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 59.215324,
-			"PosY": 0,
-			"PosZ": 51.812824,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 51.009857,
-			"PosY": 0,
-			"PosZ": 51.085793,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 38.94655,
-			"PosY": 0,
-			"PosZ": 51.085793,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 32.461025,
-			"PosY": 0,
-			"PosZ": 36.21557,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 32.328274,
-			"PosY": 0,
-			"PosZ": 13.166578,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 25.219606,
-			"PosY": 0,
-			"PosZ": 52.172382,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 4.7485065,
-			"PosY": 0,
-			"PosZ": 52.172382,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -10.60483,
-			"PosY": 0,
-			"PosZ": 52.172382,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -34.200516,
-			"PosY": 0,
-			"PosZ": 37.648468,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -32.854282,
-			"PosY": 0,
-			"PosZ": 27.35664,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -33.401306,
-			"PosY": 0,
-			"PosZ": 9.82995,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -25.305382,
-			"PosY": 0,
-			"PosZ": 52.41063,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -35.540916,
-			"PosY": 0,
-			"PosZ": 52.41063,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -52.356438,
-			"PosY": 0,
-			"PosZ": 52.41063,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -71.549194,
-			"PosY": 0,
-			"PosZ": 53.001244,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -86.9025,
-			"PosY": 0,
-			"PosZ": 53.001244,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -86.9025,
-			"PosY": 0,
-			"PosZ": 41.303493,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -86.9025,
-			"PosY": 0,
-			"PosZ": 25.584637,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -86.9025,
-			"PosY": 0,
-			"PosZ": 10.962444,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -86.9025,
-			"PosY": 0,
-			"PosZ": -1.4664211,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -86.9025,
-			"PosY": 0,
-			"PosZ": -9.508625,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -86.9025,
-			"PosY": 0,
-			"PosZ": -18.647495,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -87.71672,
-			"PosY": 0,
-			"PosZ": -33.49648,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -87.0434,
-			"PosY": 0,
-			"PosZ": -52.888374,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -81.421326,
-			"PosY": 0,
-			"PosZ": -57.890137,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -71.237206,
-			"PosY": 0,
-			"PosZ": -56.36528,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -58.05553,
-			"PosY": 0,
-			"PosZ": -58.666767,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -77.996544,
-			"PosY": 0,
-			"PosZ": -5.160368,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -65.08393,
-			"PosY": 0,
-			"PosZ": -5.160366,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -56.49888,
-			"PosY": 0,
-			"PosZ": -5.160366,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -44.90709,
-			"PosY": 0,
-			"PosZ": -5.4200096,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -44.90709,
-			"PosY": 0,
-			"PosZ": -5.4200096,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -44.90709,
-			"PosY": 0,
-			"PosZ": -5.4200096,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -44.90709,
-			"PosY": 0,
-			"PosZ": -5.4200096,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -36.49933,
-			"PosY": 0,
-			"PosZ": -5.4200096,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -28.822678,
-			"PosY": 0,
-			"PosZ": -5.4200115,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -20.780472,
-			"PosY": 0,
-			"PosZ": -5.4200096,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -12.007158,
-			"PosY": 0,
-			"PosZ": -5.4200096,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -2.30517,
-			"PosY": 0,
-			"PosZ": -4.774351,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -1.6591282,
-			"PosY": 0,
-			"PosZ": -10.433495,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -1.5674915,
-			"PosY": 0,
-			"PosZ": -22.465412,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -1.2706928,
-			"PosY": 0,
-			"PosZ": -34.252773,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -1.0716629,
-			"PosY": 0,
-			"PosZ": -44.608147,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 5.0023403,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 12.67901,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 20.355679,
-			"PosY": 0,
-			"PosZ": -5.6815186,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 27.301237,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 34.977905,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 41.92345,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 48.50344,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 56.545647,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 64.22229,
-			"PosY": 0,
-			"PosZ": -5.6815186,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 72.995605,
-			"PosY": 0,
-			"PosZ": -5.6815205,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 82.13448,
-			"PosY": 0,
-			"PosZ": -5.6815186,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 88.23164,
-			"PosY": 0,
-			"PosZ": -5.7471867,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 88.23164,
-			"PosY": 0,
-			"PosZ": -15.617195,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 88.23164,
-			"PosY": 0,
-			"PosZ": -22.562748,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 88.23164,
-			"PosY": 0,
-			"PosZ": -30.239422,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 88.23164,
-			"PosY": 0,
-			"PosZ": -40.109413,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 88.23164,
-			"PosY": 0,
-			"PosZ": -47.78606,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 87.55674,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 79.14898,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 70.01011,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 61.236794,
-			"PosY": 0,
-			"PosZ": -58.973877,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 52.097923,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 42.959053,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 34.185722,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 23.950165,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 13.3490505,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 3.4790516,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -7.122038,
-			"PosY": 0,
-			"PosZ": -58.97388,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -14.798687,
-			"PosY": 0,
-			"PosZ": -58.973885,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -22.860033,
-			"PosY": 0,
-			"PosZ": -59.22348,
-			"RotationY": 104.99997,
-			"Scale": 1,
-			"UnitId": "orc_warrior_7"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 30.428078,
-			"PosY": 0,
-			"PosZ": -29.744987,
-			"RotationY": 104.99997,
+			"PosZ": -33.22215,
+			"RotationY": 0,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
 		},
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": 33.5298,
+			"PosX": -70.479645,
 			"PosY": 0,
-			"PosZ": -25.763258,
-			"RotationY": 104.99997,
+			"PosZ": 15.344641,
+			"RotationY": 0,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
 		},
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": 4.246151,
+			"PosX": -53.473454,
 			"PosY": 0,
-			"PosZ": 30.29057,
+			"PosZ": 16.305304,
+			"RotationY": 0,
+			"Scale": 4,
+			"UnitId": "fantasy_tower_1"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -66.25792,
+			"PosY": 0,
+			"PosZ": 21.4514,
 			"RotationY": 0,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
@@ -4238,49 +3298,29 @@
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": 59.136456,
+			"PosX": 30.428078,
 			"PosY": 0,
-			"PosZ": 15.690437,
-			"RotationY": 0,
+			"PosZ": -29.744987,
+			"RotationY": 104.999954,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
 		},
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": 59.136456,
+			"PosX": 33.5298,
 			"PosY": 0,
-			"PosZ": 15.690437,
-			"RotationY": 0,
+			"PosZ": -25.763258,
+			"RotationY": 104.999954,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
 		},
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": 59.136456,
+			"PosX": 4.246151,
 			"PosY": 0,
-			"PosZ": 15.690437,
-			"RotationY": 0,
-			"Scale": 4,
-			"UnitId": "fantasy_tower_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -53.473454,
-			"PosY": 0,
-			"PosZ": 16.305304,
-			"RotationY": 0,
-			"Scale": 4,
-			"UnitId": "fantasy_tower_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -70.479645,
-			"PosY": 0,
-			"PosZ": 15.344641,
+			"PosZ": 30.29057,
 			"RotationY": 0,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
@@ -4298,9 +3338,9 @@
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": -66.25792,
+			"PosX": 59.136456,
 			"PosY": 0,
-			"PosZ": 21.4514,
+			"PosZ": 15.690437,
 			"RotationY": 0,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
@@ -4308,12 +3348,852 @@
 		{
 			"IsEnemy": false,
 			"Player": 0,
-			"PosX": -45.40677,
+			"PosX": 59.136456,
 			"PosY": 0,
-			"PosZ": -33.22215,
+			"PosZ": 15.690437,
 			"RotationY": 0,
 			"Scale": 4,
 			"UnitId": "fantasy_tower_1"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 59.136456,
+			"PosY": 0,
+			"PosZ": 15.690437,
+			"RotationY": 0,
+			"Scale": 4,
+			"UnitId": "fantasy_tower_1"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -58.05553,
+			"PosY": 0,
+			"PosZ": -58.666767,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -71.237206,
+			"PosY": 0,
+			"PosZ": -56.36528,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -81.421326,
+			"PosY": 0,
+			"PosZ": -57.890137,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -51.556313,
+			"PosY": 0,
+			"PosZ": -81.50016,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -87.0434,
+			"PosY": 0,
+			"PosZ": -52.888374,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -51.78424,
+			"PosY": 0,
+			"PosZ": -93.68315,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -87.71672,
+			"PosY": 0,
+			"PosZ": -33.49648,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -22.860033,
+			"PosY": 0,
+			"PosZ": -59.22348,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -14.798687,
+			"PosY": 0,
+			"PosZ": -58.973885,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -86.9025,
+			"PosY": 0,
+			"PosZ": -18.647495,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -7.122038,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -65.08393,
+			"PosY": 0,
+			"PosZ": -5.160366,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -86.9025,
+			"PosY": 0,
+			"PosZ": -9.508625,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -56.49888,
+			"PosY": 0,
+			"PosZ": -5.160366,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -77.996544,
+			"PosY": 0,
+			"PosZ": -5.160368,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -44.90709,
+			"PosY": 0,
+			"PosZ": -5.4200096,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -44.90709,
+			"PosY": 0,
+			"PosZ": -5.4200096,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -44.90709,
+			"PosY": 0,
+			"PosZ": -5.4200096,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -44.90709,
+			"PosY": 0,
+			"PosZ": -5.4200096,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -36.49933,
+			"PosY": 0,
+			"PosZ": -5.4200096,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -1.0716629,
+			"PosY": 0,
+			"PosZ": -44.608147,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -86.9025,
+			"PosY": 0,
+			"PosZ": -1.4664211,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 3.4790516,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -28.822678,
+			"PosY": 0,
+			"PosZ": -5.4200115,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -1.2706928,
+			"PosY": 0,
+			"PosZ": -34.252773,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -20.780472,
+			"PosY": 0,
+			"PosZ": -5.4200096,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -1.5674915,
+			"PosY": 0,
+			"PosZ": -22.465412,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 13.3490505,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -12.007158,
+			"PosY": 0,
+			"PosZ": -5.4200096,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -86.9025,
+			"PosY": 0,
+			"PosZ": 10.962444,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -33.401306,
+			"PosY": 0,
+			"PosZ": 9.82995,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -1.6591282,
+			"PosY": 0,
+			"PosZ": -10.433495,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -2.30517,
+			"PosY": 0,
+			"PosZ": -4.774351,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 23.950165,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 5.0023403,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -86.9025,
+			"PosY": 0,
+			"PosZ": 25.584637,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 12.67901,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -32.854282,
+			"PosY": 0,
+			"PosZ": 27.35664,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 34.185722,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 20.355679,
+			"PosY": 0,
+			"PosZ": -5.6815186,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -34.200516,
+			"PosY": 0,
+			"PosZ": 37.648468,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 42.959053,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -86.9025,
+			"PosY": 0,
+			"PosZ": 41.303493,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 27.301237,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 34.977905,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 52.097923,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -52.356438,
+			"PosY": 0,
+			"PosZ": 52.41063,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -71.549194,
+			"PosY": 0,
+			"PosZ": 53.001244,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -86.9025,
+			"PosY": 0,
+			"PosZ": 53.001244,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -35.540916,
+			"PosY": 0,
+			"PosZ": 52.41063,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 41.92345,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -25.305382,
+			"PosY": 0,
+			"PosZ": 52.41063,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 32.328274,
+			"PosY": 0,
+			"PosZ": 13.166578,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 61.236794,
+			"PosY": 0,
+			"PosZ": -58.973877,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 48.50344,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": -10.60483,
+			"PosY": 0,
+			"PosZ": 52.172382,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 56.545647,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 70.01011,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 4.7485065,
+			"PosY": 0,
+			"PosZ": 52.172382,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 32.461025,
+			"PosY": 0,
+			"PosZ": 36.21557,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 64.22229,
+			"PosY": 0,
+			"PosZ": -5.6815186,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 79.14898,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 25.219606,
+			"PosY": 0,
+			"PosZ": 52.172382,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 72.995605,
+			"PosY": 0,
+			"PosZ": -5.6815205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 87.55674,
+			"PosY": 0,
+			"PosZ": -58.97388,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 88.23164,
+			"PosY": 0,
+			"PosZ": -47.78606,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 88.23164,
+			"PosY": 0,
+			"PosZ": -40.109413,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 38.94655,
+			"PosY": 0,
+			"PosZ": 51.085793,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 88.23164,
+			"PosY": 0,
+			"PosZ": -30.239422,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 82.13448,
+			"PosY": 0,
+			"PosZ": -5.6815186,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 88.23164,
+			"PosY": 0,
+			"PosZ": -22.562748,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 88.23164,
+			"PosY": 0,
+			"PosZ": -15.617195,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 51.009857,
+			"PosY": 0,
+			"PosZ": 51.085793,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 88.23164,
+			"PosY": 0,
+			"PosZ": -5.7471867,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 59.215324,
+			"PosY": 0,
+			"PosZ": 51.812824,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 87.04579,
+			"PosY": 0,
+			"PosZ": 20.72205,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 73.106415,
+			"PosY": 0,
+			"PosZ": 51.812824,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 87.36129,
+			"PosY": 0,
+			"PosZ": 33.012985,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 88.321915,
+			"PosY": 0,
+			"PosZ": 37.491024,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 82.893936,
+			"PosY": 0,
+			"PosZ": 50.963577,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 66.53563,
+			"PosY": 0,
+			"PosZ": 71.62303,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 66.45706,
+			"PosY": 0,
+			"PosZ": 83.11172,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
+		},
+		{
+			"IsEnemy": false,
+			"Player": 0,
+			"PosX": 66.52048,
+			"PosY": 0,
+			"PosZ": 93.816086,
+			"RotationY": 104.999954,
+			"Scale": 1,
+			"UnitId": "orc_warrior_7"
 		}
 	],
 	"Width": 128
