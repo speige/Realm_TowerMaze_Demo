@@ -1,0 +1,59 @@
+{
+	"Assets": {
+		"animations": {
+			"Bored - Standing Around Bored Idle.ranim": "979a642d48705fc903a1c2e98ac71660cf1399ad462dc0d3add505b7f919ea84",
+			"Death - Death From Standing Idle.ranim": "7454fae0c375bc391a9f807f21f7edfd6d09e26b146ada81311b80c4972b1568",
+			"Heavy Weapon Swing - Two Handed Heavy Weapon Swing.ranim": "4c389cdf83c9eb5e8bc342486ace70c759e34897ef8a41c73ac4bc3cb8888568",
+			"Magic Spell Casting - Casting A Spell With One Hand.ranim": "396b0033881d3dc63a27f772c19d272fb152a056dd861af67059e9d8ce693d41",
+			"Northern Soul Floor Spin - Northern Soul Dance Spin On Floor.ranim": "5422fe09e49b7c1b5c43bfe93e7197f105bf9900bf2bb4c3360330558b371ab9",
+			"Standard Walk - Standard Walk.ranim": "5c48f7b2c6ad1e735d1e3644361007dc4175a7c716f83817797ed572c6819b22",
+			"Upward Thrust - Upward Weapon Thrust.ranim": "19c2fc338a0d52ee36cab89f730245999368d239a662f84383a0a9f2adebe083"
+		},
+		"decals": {
+			"arcane_spark.rtex": "404f1966b680cf1c83ba8e0e835b75681a4e1f0c97f4e27554e2d3f1e5593bab"
+		},
+		"glb": {
+			"buildings": {
+				"fantasy_tower_1.glb": "66981550a846928e8c70d6027c5e4c317a5e8a8047c2a07c7df3898f4740d0d8"
+			},
+			"props": {
+				"coniferous_tree_1.glb": "5b9b796a86348ea440b3a6cac3635bef677235ce7acca8d22fb3077909180f84",
+				"crystal_cluster_5.glb": "284ae2ac5dd533fae3c57f193ebb77d639ac8789cc5624d8f6adbb9daacd0ce8",
+				"fantasy_rock.glb": "d27847314dafc44f89621c81fefb11d7ebbf2736aa6e0611d6e1147a2e756480",
+				"fantasy_tree_1.glb": "387a865cbe4b6a355dc70837433ad5abfae97ffcd3e28a7c11c26fb58173828e",
+				"fantasy_warrior_unit_1.glb": "f41fd40b5bb3a9abffdf992959a1c2d69f418679e854776d2c66c523ebdcfc08",
+				"grass_tuft_1.glb": "a6ac71a09669fbf04c3627644cc83946834a7db64c25c5fcc61b460bbe065816",
+				"ice_castle_1.glb": "9987e24217dcf93d7bdd0ec9e61363199da1a1c741a8002aab478c23424beb78",
+				"palm_tree.glb": "896853dcce6c56c0e4d89fe7fa9f1a01bdb21001b49156075bb339420e057ae4",
+				"snowy_pine_tree.glb": "08963d5bcce2d7259762cbca387d2ab15da9817e8a483799120a29ca17699352",
+				"spiked_wooden_stake.glb": "6b5c148419c99dfe6abba5a6821dc1ec30b2dbc6ce19d149606082b34635b0c9",
+				"stone_wall_segment_1.glb": "9918ff76ce2c240082f163308c8301e8250f440a78e8057323c995bb62f31f1f",
+				"stone_well.glb": "386cb5e7d828796201bdd44482c7fb9997d3f9114bce4671a3fb38117576a116",
+				"timber_framed_house.glb": "58e6bb901b59296b2c3d203e6e6e37f1423ec890021e7ab225ed94112287e6a5"
+			},
+			"resources": {
+				"snow_pine_tree.glb": "30da794f482fc83117b96608a4ae8f9388774e0c9c26088c1537e64882ec50a9"
+			},
+			"units": {
+				"orc_warrior_7.glb": "4069dca49195ccbc52e1ee4c36f228bded3b095b80d53c1b9f11e97514e97e18"
+			}
+		},
+		"skyboxes": {
+			"jade_shrine.rtex": "e731a047f223e140a15463ecd247f89829df3faa5f061927116c66db1c52e751"
+		},
+		"textures": {
+			"ancient_jungle_overgrown_path.rtex": "69c003d1c7b4eda35f084a55f11ded32faa398c6332cd06a141957b3a99f17ef",
+			"frozen_tundra_ice_melt.rtex": "278d9e185303d0a6aaf101b4900b036321fe8258ad31ec4ce6046f3957f04b97",
+			"frozen_tundra_icy_crag.rtex": "160aa925e31aa84d421e6123db7796ad0aa2c77a5f9ddfe7bb5aa3eeb957f563",
+			"petrified_forest_gray_granite.rtex": "e11c4872d45954a67ca59e2d4c8ad2c6b14b49e131e9a416cef780df4eb99021",
+			"sunken_ruins_crushed_granite.rtex": "bfd797411d85c528bfa1dc3a98f419208a8d47334fe3fcf41dbc81e16b26810b"
+		}
+	},
+	"Author": "Realm",
+	"Description": "Tower maze strategy demo with towers, creeps, and maze pathing.",
+	"MapName": "Tower Maze",
+	"Tags": [
+		"Tower Defense"
+	],
+	"Version": "1.0.0"
+}
