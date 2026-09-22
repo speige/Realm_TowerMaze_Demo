@@ -10,7 +10,9 @@
 			"PosX": -51.135983,
 			"PosY": 0,
 			"PosZ": -93.93555,
+			"RotationX": 0,
 			"RotationY": 0,
+			"RotationZ": 0,
 			"Scale": 1
 		}
 	],
@@ -4196,5 +4198,6 @@
 			"UnitId": "orc_warrior_7"
 		}
 	],
+	"Vfx": [],
 	"Width": 128
 }
