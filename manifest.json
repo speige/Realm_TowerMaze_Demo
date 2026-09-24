@@ -16,21 +16,6 @@
 			"buildings": {
 				"fantasy_tower_1.rmesh": "31746db216bb5fbcba34f2d5c5fa7c0ba640e9f8eb2ad75a88b59df710992bd6"
 			},
-			"props": {
-				"coniferous_tree_1.rmesh": "5b9b796a86348ea440b3a6cac3635bef677235ce7acca8d22fb3077909180f84",
-				"crystal_cluster_5.rmesh": "284ae2ac5dd533fae3c57f193ebb77d639ac8789cc5624d8f6adbb9daacd0ce8",
-				"fantasy_rock.rmesh": "d27847314dafc44f89621c81fefb11d7ebbf2736aa6e0611d6e1147a2e756480",
-				"fantasy_tree_1.rmesh": "387a865cbe4b6a355dc70837433ad5abfae97ffcd3e28a7c11c26fb58173828e",
-				"fantasy_warrior_unit_1.rmesh": "f41fd40b5bb3a9abffdf992959a1c2d69f418679e854776d2c66c523ebdcfc08",
-				"grass_tuft_1.rmesh": "a6ac71a09669fbf04c3627644cc83946834a7db64c25c5fcc61b460bbe065816",
-				"ice_castle_1.rmesh": "9987e24217dcf93d7bdd0ec9e61363199da1a1c741a8002aab478c23424beb78",
-				"palm_tree.rmesh": "896853dcce6c56c0e4d89fe7fa9f1a01bdb21001b49156075bb339420e057ae4",
-				"snowy_pine_tree.rmesh": "08963d5bcce2d7259762cbca387d2ab15da9817e8a483799120a29ca17699352",
-				"spiked_wooden_stake.rmesh": "6b5c148419c99dfe6abba5a6821dc1ec30b2dbc6ce19d149606082b34635b0c9",
-				"stone_wall_segment_1.rmesh": "9918ff76ce2c240082f163308c8301e8250f440a78e8057323c995bb62f31f1f",
-				"stone_well.rmesh": "386cb5e7d828796201bdd44482c7fb9997d3f9114bce4671a3fb38117576a116",
-				"timber_framed_house.rmesh": "58e6bb901b59296b2c3d203e6e6e37f1423ec890021e7ab225ed94112287e6a5"
-			},
 			"resources": {
 				"snow_pine_tree.rmesh": "1d344b2fcbc380d3629cb6a877963a9fa86c80b6cb5148b9fd5e34e43ee022b3"
 			},
@@ -38,9 +23,6 @@
 				"orc_warrior_7.rmesh": "67b823cd4ad3b6cdf18d014939364b7f52399cbb3ab67168fbe824b2774d34fa"
 			}
 		},
-		"icons": {},
-		"noise_textures": {},
-		"ribbons": {},
 		"skyboxes": {
 			"jade_shrine.rtex": "e731a047f223e140a15463ecd247f89829df3faa5f061927116c66db1c52e751"
 		},
@@ -50,8 +32,7 @@
 			"frozen_tundra_icy_crag.rtex": "160aa925e31aa84d421e6123db7796ad0aa2c77a5f9ddfe7bb5aa3eeb957f563",
 			"petrified_forest_gray_granite.rtex": "e11c4872d45954a67ca59e2d4c8ad2c6b14b49e131e9a416cef780df4eb99021",
 			"sunken_ruins_crushed_granite.rtex": "bfd797411d85c528bfa1dc3a98f419208a8d47334fe3fcf41dbc81e16b26810b"
-		},
-		"vfx_spritesheets": {}
+		}
 	},
 	"Author": "Realm",
 	"Description": "Tower maze strategy demo with towers, creeps, and maze pathing.",

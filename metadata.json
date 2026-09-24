@@ -158,15 +158,7 @@
 	"CustomVfx": [],
 	"CustomWeapons": [],
 	"Dependencies": [],
-	"GameBuildNumber": "v0.0.1",
-	"Greenlight": {
-		"ApprovedUtc": null,
-		"BypassToken": null,
-		"CurrentVotes": 0,
-		"IsGreenlit": false,
-		"Status": "Pending",
-		"VotesRequired": 0
-	},
+	"GameBuildNumber": "v0.0.2",
 	"MapProperties": {
 		"Author": null,
 		"CameraBoundsBottom": null,
@@ -199,122 +191,137 @@
 		"Version": null,
 		"WeatherType": null
 	},
-	"ModelBrightness": {
-		"fantasy_tower_1.rmesh": 0.5,
-		"orc_warrior_7.rmesh": 0.5,
-		"snow_pine_tree.rmesh": 0.5
-	},
-	"ModelCollisionCircleRatios": {
-		"coniferous_tree_1.rmesh": 0.3,
-		"crystal_cluster_5.rmesh": 0.75,
-		"fantasy_tower_1.rmesh": 1,
-		"orc_warrior_7.rmesh": 0,
-		"palm_tree.rmesh": 0.25,
-		"snow_pine_tree.rmesh": 1,
-		"spiked_wooden_stake.rmesh": 0.4
-	},
-	"ModelColorTint": {},
-	"ModelDeathShaders": {},
-	"ModelDespillPlayerColor": {
-		"coniferous_tree_1.rmesh": true,
-		"crystal_cluster_5.rmesh": true,
-		"fantasy_rock.rmesh": true,
-		"fantasy_tower_1.rmesh": true,
-		"fantasy_tree_1.rmesh": true,
-		"fantasy_warrior_unit_1.rmesh": true,
-		"grass_tuft_1.rmesh": true,
-		"ice_castle_1.rmesh": true,
-		"orc_warrior_7.rmesh": true,
-		"palm_tree.rmesh": true,
-		"snow_pine_tree.rmesh": true,
-		"snowy_pine_tree.rmesh": true,
-		"spiked_wooden_stake.rmesh": true,
-		"stone_wall_segment_1.rmesh": true,
-		"stone_well.rmesh": true,
-		"timber_framed_house.rmesh": true
-	},
-	"ModelIgnorePlayerColor": {
-		"coniferous_tree_1.rmesh": true,
-		"crystal_cluster_5.rmesh": true,
-		"fantasy_rock.rmesh": true,
-		"fantasy_tower_1.rmesh": true,
-		"fantasy_tree_1.rmesh": true,
-		"fantasy_warrior_unit_1.rmesh": true,
-		"grass_tuft_1.rmesh": true,
-		"ice_castle_1.rmesh": true,
-		"palm_tree.rmesh": true,
-		"snow_pine_tree.rmesh": true,
-		"snowy_pine_tree.rmesh": true,
-		"spiked_wooden_stake.rmesh": true,
-		"stone_wall_segment_1.rmesh": true,
-		"stone_well.rmesh": true,
-		"timber_framed_house.rmesh": true
-	},
-	"ModelNormalizeLuminance": {
-		"fantasy_rock.rmesh": true,
-		"fantasy_tower_1.rmesh": true,
-		"fantasy_tree_1.rmesh": true,
-		"grass_tuft_1.rmesh": true,
-		"orc_warrior_7.rmesh": true,
-		"snow_pine_tree.rmesh": true,
-		"snowy_pine_tree.rmesh": true,
-		"stone_wall_segment_1.rmesh": true,
-		"stone_well.rmesh": true
-	},
-	"ModelObstacleRadii": {},
-	"ModelOffsets": {
-		"coniferous_tree_1.rmesh": 3.0000002,
-		"crystal_cluster_5.rmesh": 1.0500002,
-		"fantasy_rock.rmesh": 0,
-		"fantasy_tower_1.rmesh": 1.5000001,
-		"grass_tuft_1.rmesh": 0,
-		"orc_warrior_7.rmesh": 0,
-		"palm_tree.rmesh": 3.15,
-		"snow_pine_tree.rmesh": 4.15,
-		"spiked_wooden_stake.rmesh": 0.7500002,
-		"stone_wall_segment_1.rmesh": 0.70000017
-	},
-	"ModelScales": {
-		"coniferous_tree_1.rmesh": 2.75,
-		"crystal_cluster_5.rmesh": 1,
-		"fantasy_rock.rmesh": 2.75,
-		"fantasy_tower_1.rmesh": 1.5,
-		"fantasy_tree_1.rmesh": 2.75,
-		"fantasy_warrior_unit_1.rmesh": 1.5,
-		"grass_tuft_1.rmesh": 1,
-		"ice_castle_1.rmesh": 1.2,
-		"orc_warrior_7.rmesh": 1.5,
-		"palm_tree.rmesh": 2.75,
-		"snow_pine_tree.rmesh": 2.75,
-		"snowy_pine_tree.rmesh": 2.75,
-		"spiked_wooden_stake.rmesh": 1,
-		"stone_wall_segment_1.rmesh": 1,
-		"stone_well.rmesh": 1,
-		"timber_framed_house.rmesh": 1.2
-	},
-	"ModelSpawnShaders": {},
-	"Ratings": {
-		"AverageRating": 0,
-		"CommunityReviews": [],
-		"Downvotes": 0,
-		"RatingCount": 0,
-		"Upvotes": 0
+	"Models": {
+		"coniferous_tree_1.rmesh": {
+			"CollisionCircleRatios": 0.3,
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"Offsets": 3.0000002,
+			"Scales": 2.75
+		},
+		"crystal_cluster_5.rmesh": {
+			"CollisionCircleRatios": 0.75,
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"Offsets": 1.0500002,
+			"Scales": 1
+		},
+		"fantasy_rock.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Offsets": 0,
+			"Scales": 2.75
+		},
+		"fantasy_tower_1.rmesh": {
+			"Brightness": 0.5,
+			"CollisionCircleRatios": 1,
+			"ColorTint": "#ffffff",
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Offsets": 1.5000001,
+			"Scales": 1.5
+		},
+		"fantasy_tree_1.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Scales": 2.75
+		},
+		"fantasy_warrior_unit_1.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"Scales": 1.5
+		},
+		"grass_tuft_1.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Offsets": 0,
+			"Scales": 1
+		},
+		"ice_castle_1.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"Scales": 1.2
+		},
+		"orc_warrior_7.rmesh": {
+			"Brightness": 0.5,
+			"CollisionCircleRatios": 0,
+			"ColorTint": "#ffffff",
+			"DespillPlayerColor": true,
+			"NormalizeLuminance": true,
+			"Offsets": 0,
+			"Scales": 1.5
+		},
+		"palm_tree.rmesh": {
+			"CollisionCircleRatios": 0.25,
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"Offsets": 3.15,
+			"Scales": 2.75
+		},
+		"snow_pine_tree.rmesh": {
+			"Brightness": 0.5,
+			"CollisionCircleRatios": 1,
+			"ColorTint": "#ffffff",
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Offsets": 4.15,
+			"Scales": 2.75
+		},
+		"snowy_pine_tree.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Scales": 2.75
+		},
+		"spiked_wooden_stake.rmesh": {
+			"CollisionCircleRatios": 0.4,
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"Offsets": 0.7500002,
+			"Scales": 1
+		},
+		"stone_wall_segment_1.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Offsets": 0.70000017,
+			"Scales": 1
+		},
+		"stone_well.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"NormalizeLuminance": true,
+			"Scales": 1
+		},
+		"timber_framed_house.rmesh": {
+			"DespillPlayerColor": true,
+			"IgnorePlayerColor": true,
+			"Scales": 1.2
+		}
 	},
 	"decals": {
 		"arcane_spark.rtex": {}
 	},
 	"icons": {},
+	"license": "https://www.realm-game.com/RealmPlatform_UGC_License_v1.txt",
 	"noise_textures": {},
 	"ribbons": {},
 	"skyboxes": {},
 	"textures": {
 		"ancient_jungle_overgrown_path.rtex": {
+			"Scale_Factor": 4,
 			"swatchIndex": 0
 		},
 		"frozen_tundra_ice_melt.rtex": {
 			"Crevice_Power": 1,
 			"Height_Offset": 0,
 			"Height_Scale": 1,
+			"Scale_Factor": 0.46757695,
 			"brightness": 1,
 			"cross_fade": 0,
 			"stochastic_tile_size": 0.55,
@@ -324,12 +331,15 @@
 			"uv_scale": 0.35
 		},
 		"frozen_tundra_icy_crag.rtex": {
+			"Scale_Factor": 0.21362026,
 			"swatchIndex": 2
 		},
 		"petrified_forest_gray_granite.rtex": {
+			"Scale_Factor": 2.6072075,
 			"swatchIndex": 3
 		},
 		"sunken_ruins_crushed_granite.rtex": {
+			"Scale_Factor": 4,
 			"swatchIndex": 4
 		}
 	},
